@@ -17,7 +17,4 @@ It is an easy to use, lightweight, 3D library. The library provides <canvas>, <s
 ii. WebGL
 WebGL is a JavaScript API for rendering interactive 3D and 2D graphics within a web browser on a<canvas> element.
 
-Live demo
-
-https://sapienzainteractivegraphicscourse.github.io/final-project-soloteam/
 
